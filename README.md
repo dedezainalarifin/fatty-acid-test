@@ -28,7 +28,9 @@ in this lab activity, students are able to test the fatty acid
 
 ---
 #Item/Material/System
-* PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)
-* Popcorn Maker
-* Screen for presentation
+*SAPONIFIKASI
+
+*ASAM LEMAK BEBAS
+
+*PEMBENTUKAN SABUN
 ---
