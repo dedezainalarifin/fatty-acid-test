@@ -10,7 +10,7 @@ STUDENT (18-23)
 ![1003049_4418102589401_618320060_n.jpg](https://raw.github.com/dedezainalarifin/fatty-acid-test/master/gitfab/resources/1003049_4418102589401_618320060_n.jpg)
 ---
 #Scale
-1 classroom (~30)
+A classroom (~B)
 
 ---
 #Overall
