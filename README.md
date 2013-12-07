@@ -14,7 +14,8 @@ STUDENT (18-23)
 
 ---
 #Overall
-In this activity, students make a introduction movie about their own country, and presentation for others.
+
+in this lab activity, students are able to test the fatty acid
 
 
 ---
