@@ -19,12 +19,11 @@ In this activity, students make a introduction movie about their own country, an
 
 ---
 #Educational Effect
-* Search information and Remixing
+*skills using laboratory test equipment
 
-skill
+*Presentation Skill
 
-* Presentation Skill
-* deep Knowledge for own country
+*Intimate knowledge of the test saponification
 
 ---
 #Item/Material/System
