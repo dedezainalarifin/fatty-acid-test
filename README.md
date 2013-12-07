@@ -3,10 +3,11 @@
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Target
-Elementary School (6-12)
+STUDENT (18-23)
 
 
-![IMG_2918.JPG](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/IMG_2918.JPG)
+
+![1003049_4418102589401_618320060_n.jpg](https://raw.github.com/dedezainalarifin/fatty-acid-test/master/gitfab/resources/1003049_4418102589401_618320060_n.jpg)
 ---
 #Scale
 1 classroom (~30)
