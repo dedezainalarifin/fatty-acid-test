@@ -28,9 +28,9 @@ in this lab activity, students are able to test the fatty acid
 
 ---
 #Item/Material/System
-*SAPONIFIKASI
+* saponification
 
-*ASAM LEMAK BEBAS
+* FATTY ACID-FREE
 
-*PEMBENTUKAN SABUN
+* FORMATION OF SOAP
 ---
